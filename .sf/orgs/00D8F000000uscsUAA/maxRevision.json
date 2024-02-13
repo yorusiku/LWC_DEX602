@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 311,
+    "serverMaxRevisionCounter": 316,
     "sourceMembers": {
         "ListView__Account.AllAccounts": {
             "serverRevisionCounter": 111,
@@ -923,6 +923,30 @@
             "serverRevisionCounter": 287,
             "lastRetrievedFromServer": 287,
             "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__studentDetail": {
+            "serverRevisionCounter": 313,
+            "lastRetrievedFromServer": 313,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__studentDetail/studentDetail.js": {
+            "serverRevisionCounter": 314,
+            "lastRetrievedFromServer": 314,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__studentDetail/studentDetail.html": {
+            "serverRevisionCounter": 315,
+            "lastRetrievedFromServer": 315,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__studentDetail/studentDetail.js-meta.xml": {
+            "serverRevisionCounter": 316,
+            "lastRetrievedFromServer": 316,
+            "memberType": "LightningComponentResource",
             "isNameObsolete": false
         }
     }
