@@ -14,7 +14,7 @@ export default class StudentDetail extends LightningElement {
 
 	// TODO #3: locate a valid Contact ID in your scratch org and store it in the studentId property.
 	// Example: studentId = '003S000001SBAXEIA5';
-	studentId = '"dcf73f0e58fb8f92"';
+	studentId = '0018F00000Yce9FQAR';
 
 	//TODO #4: use wire service to call getRecord, passing in our studentId and array of fields.
 	//		   Store the result in a property named wiredStudent.
@@ -40,7 +40,8 @@ export default class StudentDetail extends LightningElement {
 	
 	get cardTitle() {
 		let title = "Please select a student";
-		if (FIELD_Name) {
+		alert(this.wiredStudent.name);
+		if (this.wiredStudent.data) {
 			title = this.name;
 		} else if (this.wiredStudent.error) {
 			title = "Something went wrong..."
