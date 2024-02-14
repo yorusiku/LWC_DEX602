@@ -8,7 +8,7 @@ import FIELD_Description from '@salesforce/schema/Contact.Description';
 import FIELD_Email from '@salesforce/schema/Contact.Email';
 import FIELD_Phone from '@salesforce/schema/Contact.Phone';
 
-const fields = [FIELD_Name, FIELD_Description, FIELD_Email, FIELD_Phone];
+const fields = [FIELD_Name, FIELD_Description, FIELD_Email, FIELD_Phone,'Contact.Imaginary__c'];
 
 export default class StudentDetail extends LightningElement {
 
