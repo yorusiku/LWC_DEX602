@@ -40,7 +40,6 @@ export default class StudentDetail extends LightningElement {
 	
 	get cardTitle() {
 		let title = "Please select a student";
-		alert(this.wiredStudent.name);
 		if (this.wiredStudent.data) {
 			title = this.name;
 		} else if (this.wiredStudent.error) {
