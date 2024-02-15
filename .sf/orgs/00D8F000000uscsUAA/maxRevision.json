@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 761,
+    "serverMaxRevisionCounter": 786,
     "sourceMembers": {
         "ListView__Account.AllAccounts": {
             "serverRevisionCounter": 111,
@@ -327,7 +327,7 @@
         },
         "Profile__Training User": {
             "serverRevisionCounter": 688,
-            "lastRetrievedFromServer": 168,
+            "lastRetrievedFromServer": 688,
             "memberType": "Profile",
             "isNameObsolete": false
         },
@@ -356,8 +356,8 @@
             "isNameObsolete": false
         },
         "Layout__Course_Delivery__c-Course Delivery Layout": {
-            "serverRevisionCounter": 127,
-            "lastRetrievedFromServer": 127,
+            "serverRevisionCounter": 786,
+            "lastRetrievedFromServer": 786,
             "memberType": "Layout",
             "isNameObsolete": false
         },
@@ -1037,6 +1037,12 @@
             "serverRevisionCounter": 735,
             "lastRetrievedFromServer": 735,
             "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "QuickAction__Course_Delivery__c.Delivery_List_Action": {
+            "serverRevisionCounter": 762,
+            "lastRetrievedFromServer": 762,
+            "memberType": "QuickAction",
             "isNameObsolete": false
         }
     }
