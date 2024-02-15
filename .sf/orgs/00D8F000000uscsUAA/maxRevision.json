@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 786,
+    "serverMaxRevisionCounter": 868,
     "sourceMembers": {
         "ListView__Account.AllAccounts": {
             "serverRevisionCounter": 111,
@@ -662,8 +662,8 @@
             "isNameObsolete": false
         },
         "FlexiPage__Course_Delivery_Record_Page": {
-            "serverRevisionCounter": 136,
-            "lastRetrievedFromServer": 136,
+            "serverRevisionCounter": 868,
+            "lastRetrievedFromServer": 868,
             "memberType": "FlexiPage",
             "isNameObsolete": false
         },
@@ -752,50 +752,50 @@
             "isNameObsolete": false
         },
         "LightningComponentBundle__studentBrowser": {
-            "serverRevisionCounter": 740,
-            "lastRetrievedFromServer": 740,
+            "serverRevisionCounter": 800,
+            "lastRetrievedFromServer": 800,
             "memberType": "LightningComponentBundle",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentBrowser/studentBrowser.js-meta.xml": {
-            "serverRevisionCounter": 741,
-            "lastRetrievedFromServer": 741,
+            "serverRevisionCounter": 801,
+            "lastRetrievedFromServer": 801,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentBrowser/studentBrowser.js": {
-            "serverRevisionCounter": 742,
-            "lastRetrievedFromServer": 742,
+            "serverRevisionCounter": 802,
+            "lastRetrievedFromServer": 802,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentBrowser/studentBrowser.html": {
-            "serverRevisionCounter": 743,
-            "lastRetrievedFromServer": 743,
+            "serverRevisionCounter": 803,
+            "lastRetrievedFromServer": 803,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentBundle__studentBrowserForm": {
-            "serverRevisionCounter": 744,
-            "lastRetrievedFromServer": 744,
+            "serverRevisionCounter": 804,
+            "lastRetrievedFromServer": 804,
             "memberType": "LightningComponentBundle",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentBrowserForm/studentBrowserForm.js-meta.xml": {
-            "serverRevisionCounter": 745,
-            "lastRetrievedFromServer": 745,
+            "serverRevisionCounter": 805,
+            "lastRetrievedFromServer": 805,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentBrowserForm/studentBrowserForm.html": {
-            "serverRevisionCounter": 746,
-            "lastRetrievedFromServer": 746,
+            "serverRevisionCounter": 806,
+            "lastRetrievedFromServer": 806,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentBrowserForm/studentBrowserForm.js": {
-            "serverRevisionCounter": 747,
-            "lastRetrievedFromServer": 747,
+            "serverRevisionCounter": 807,
+            "lastRetrievedFromServer": 807,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
@@ -824,62 +824,62 @@
             "isNameObsolete": false
         },
         "LightningComponentResource__studentBrowserForm/studentBrowserForm.css": {
-            "serverRevisionCounter": 748,
-            "lastRetrievedFromServer": 748,
+            "serverRevisionCounter": 808,
+            "lastRetrievedFromServer": 808,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentBundle__studentTile": {
-            "serverRevisionCounter": 753,
-            "lastRetrievedFromServer": 753,
+            "serverRevisionCounter": 813,
+            "lastRetrievedFromServer": 813,
             "memberType": "LightningComponentBundle",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentTile/studentTile.html": {
-            "serverRevisionCounter": 754,
-            "lastRetrievedFromServer": 754,
+            "serverRevisionCounter": 814,
+            "lastRetrievedFromServer": 814,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentTile/studentTile.js": {
-            "serverRevisionCounter": 755,
-            "lastRetrievedFromServer": 755,
+            "serverRevisionCounter": 815,
+            "lastRetrievedFromServer": 815,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentTile/studentTile.js-meta.xml": {
-            "serverRevisionCounter": 756,
-            "lastRetrievedFromServer": 756,
+            "serverRevisionCounter": 816,
+            "lastRetrievedFromServer": 816,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentTile/studentTile.css": {
-            "serverRevisionCounter": 757,
-            "lastRetrievedFromServer": 757,
+            "serverRevisionCounter": 817,
+            "lastRetrievedFromServer": 817,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentBundle__studentTiles": {
-            "serverRevisionCounter": 758,
-            "lastRetrievedFromServer": 758,
+            "serverRevisionCounter": 818,
+            "lastRetrievedFromServer": 818,
             "memberType": "LightningComponentBundle",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentTiles/studentTiles.html": {
-            "serverRevisionCounter": 759,
-            "lastRetrievedFromServer": 759,
+            "serverRevisionCounter": 819,
+            "lastRetrievedFromServer": 819,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentTiles/studentTiles.js": {
-            "serverRevisionCounter": 760,
-            "lastRetrievedFromServer": 760,
+            "serverRevisionCounter": 820,
+            "lastRetrievedFromServer": 820,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentTiles/studentTiles.js-meta.xml": {
-            "serverRevisionCounter": 761,
-            "lastRetrievedFromServer": 761,
+            "serverRevisionCounter": 821,
+            "lastRetrievedFromServer": 821,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
@@ -926,26 +926,26 @@
             "isNameObsolete": false
         },
         "LightningComponentBundle__studentDetail": {
-            "serverRevisionCounter": 749,
-            "lastRetrievedFromServer": 749,
+            "serverRevisionCounter": 809,
+            "lastRetrievedFromServer": 809,
             "memberType": "LightningComponentBundle",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentDetail/studentDetail.js": {
-            "serverRevisionCounter": 750,
-            "lastRetrievedFromServer": 750,
+            "serverRevisionCounter": 810,
+            "lastRetrievedFromServer": 810,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentDetail/studentDetail.html": {
-            "serverRevisionCounter": 751,
-            "lastRetrievedFromServer": 751,
+            "serverRevisionCounter": 811,
+            "lastRetrievedFromServer": 811,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__studentDetail/studentDetail.js-meta.xml": {
-            "serverRevisionCounter": 752,
-            "lastRetrievedFromServer": 752,
+            "serverRevisionCounter": 812,
+            "lastRetrievedFromServer": 812,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
@@ -974,26 +974,26 @@
             "isNameObsolete": false
         },
         "LightningComponentBundle__deliveryListMap": {
-            "serverRevisionCounter": 736,
-            "lastRetrievedFromServer": 736,
+            "serverRevisionCounter": 796,
+            "lastRetrievedFromServer": 796,
             "memberType": "LightningComponentBundle",
             "isNameObsolete": false
         },
         "LightningComponentResource__deliveryListMap/deliveryListMap.js-meta.xml": {
-            "serverRevisionCounter": 739,
-            "lastRetrievedFromServer": 739,
+            "serverRevisionCounter": 799,
+            "lastRetrievedFromServer": 799,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__deliveryListMap/deliveryListMap.js": {
-            "serverRevisionCounter": 737,
-            "lastRetrievedFromServer": 737,
+            "serverRevisionCounter": 797,
+            "lastRetrievedFromServer": 797,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__deliveryListMap/deliveryListMap.html": {
-            "serverRevisionCounter": 738,
-            "lastRetrievedFromServer": 738,
+            "serverRevisionCounter": 798,
+            "lastRetrievedFromServer": 798,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
@@ -1016,26 +1016,26 @@
             "isNameObsolete": false
         },
         "LightningComponentBundle__deliveryListAction": {
-            "serverRevisionCounter": 732,
-            "lastRetrievedFromServer": 732,
+            "serverRevisionCounter": 792,
+            "lastRetrievedFromServer": 792,
             "memberType": "LightningComponentBundle",
             "isNameObsolete": false
         },
         "LightningComponentResource__deliveryListAction/deliveryListAction.js": {
-            "serverRevisionCounter": 733,
-            "lastRetrievedFromServer": 733,
+            "serverRevisionCounter": 793,
+            "lastRetrievedFromServer": 793,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__deliveryListAction/deliveryListAction.html": {
-            "serverRevisionCounter": 734,
-            "lastRetrievedFromServer": 734,
+            "serverRevisionCounter": 794,
+            "lastRetrievedFromServer": 794,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__deliveryListAction/deliveryListAction.js-meta.xml": {
-            "serverRevisionCounter": 735,
-            "lastRetrievedFromServer": 735,
+            "serverRevisionCounter": 795,
+            "lastRetrievedFromServer": 795,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
@@ -1043,6 +1043,30 @@
             "serverRevisionCounter": 762,
             "lastRetrievedFromServer": 762,
             "memberType": "QuickAction",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__deliveryDetailMap": {
+            "serverRevisionCounter": 788,
+            "lastRetrievedFromServer": 788,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__deliveryDetailMap/deliveryDetailMap.js": {
+            "serverRevisionCounter": 789,
+            "lastRetrievedFromServer": 789,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__deliveryDetailMap/deliveryDetailMap.js-meta.xml": {
+            "serverRevisionCounter": 790,
+            "lastRetrievedFromServer": 790,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__deliveryDetailMap/deliveryDetailMap.html": {
+            "serverRevisionCounter": 791,
+            "lastRetrievedFromServer": 791,
+            "memberType": "LightningComponentResource",
             "isNameObsolete": false
         }
     }
