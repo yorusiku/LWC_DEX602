@@ -17,6 +17,7 @@ export default class AwNavigation extends LightningElement {
         }));
         } else if (error) {
         this.error = error;
+        console.log("hi")
         }
     }
     onselect(event) {
