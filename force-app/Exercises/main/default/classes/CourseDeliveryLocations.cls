@@ -10,4 +10,15 @@ public with sharing class CourseDeliveryLocations {
                 GROUP BY Location__c];
 
     }
+
+    public List<AggregateResult> locationsVF {
+        get {
+        if (locationsVF == null) {
+        locationsVF =
+        CourseDeliveryLocations.getLocations();
+        }
+        return locationsVF;
+        }
+        private set;
+        }
 }
