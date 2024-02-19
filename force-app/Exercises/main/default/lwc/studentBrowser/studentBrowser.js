@@ -52,6 +52,12 @@ export default class StudentBrowser extends NavigationMixin(LightningElement) {
         studentId: studentId
       });
     }
+
+    handleRowClick(event) {
+      const studentId = event.detail.pk;
+      this.updateSelectedStudent(studentId);
+    }
+
     handleRowDblClick(event) {
       const studentId = event.detail.pk;
       this[NavigationMixin.Navigate]({
@@ -63,7 +69,7 @@ export default class StudentBrowser extends NavigationMixin(LightningElement) {
       }
       });
     }
-    
+
     }
     // constructor() {
     //     super();
