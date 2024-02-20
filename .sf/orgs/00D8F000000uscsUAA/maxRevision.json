@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 1206,
+    "serverMaxRevisionCounter": 1208,
     "sourceMembers": {
         "ListView__Account.AllAccounts": {
             "serverRevisionCounter": 111,
@@ -1355,6 +1355,12 @@
             "serverRevisionCounter": 1202,
             "lastRetrievedFromServer": 1202,
             "memberType": "CustomLabel",
+            "isNameObsolete": false
+        },
+        "Translations__ko": {
+            "serverRevisionCounter": 1208,
+            "lastRetrievedFromServer": 1208,
+            "memberType": "Translations",
             "isNameObsolete": false
         }
     }
