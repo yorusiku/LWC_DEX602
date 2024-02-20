@@ -28,6 +28,7 @@ export default class LayoutManager extends LightningElement {
 			this.certificationName = selectedCertificationObj[2];
 		}
 	}
+	
 	connectedCallback() {
 		Utils.showToast(
 			this,
