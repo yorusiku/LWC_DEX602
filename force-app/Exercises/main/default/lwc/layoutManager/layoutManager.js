@@ -1,4 +1,5 @@
 import { LightningElement } from 'lwc';
+import Utils from 'c/utils';
 
 const VIEW_STUDENT_BROWSER = 'students';
 const VIEW_TRIP_REPORTS = 'tripreports';
@@ -26,6 +27,14 @@ export default class LayoutManager extends LightningElement {
 			this.certificationId = selectedCertificationObj[1];
 			this.certificationName = selectedCertificationObj[2];
 		}
+	}
+	connectedCallback() {
+		Utils.showToast(
+			this,
+			'Welcome',
+			"Don't forget to check back here for updated class schedules and assignments",
+			'info'
+		);
 	}
 
 	get studentBrowserView() {

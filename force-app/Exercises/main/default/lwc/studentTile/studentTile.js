@@ -7,6 +7,9 @@ export default class StudentTile extends LightningElement {
         PhotoUrl : '/services/images/photo/003B0FakePictId',
     };
     @api selectedStudentId = '';
+    @api setSelectedStudent(studentId) {
+        this.selectedStudentId = studentId;
+        }
 
     get tileSelected() {
         return (this.isSelectedStudentId === this.studentId) ? "tile selected" : "tile";
