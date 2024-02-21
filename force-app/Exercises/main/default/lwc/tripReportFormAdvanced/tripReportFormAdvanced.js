@@ -1,18 +1,10 @@
 import { LightningElement, api, wire } from 'lwc';
-
 import Utils from 'c/utils';
 import getInstructors from '@salesforce/apex/StudentBrowserForm.getInstructors';
 import { getObjectInfo, getPicklistValues} from 'lightning/uiObjectInfoApi';
 import { reduceErrors } from 'c/ldsUtils';
-
-// TODO #1: In a single line, import four functions from 'lightning/uiRecordApi' that we will use for Lightning Data Service. 
-// The functions are: createRecord, getFieldValue, getRecord, updateRecord
 import { createRecord, getFieldValue, getRecord,
     updateRecord } from 'lightning/uiRecordApi';
-
-
-// TODO #2: using the examples of FIELD_ID and FIELD_DATE, import the Instructor__c, Name, Rating__c, ReviewType__c, and Review__c fields
-// HINT: loook at the fieldsToLoad array that immediately follows.
 import FIELD_INSTRUCTOR from
 '@salesforce/schema/TripReport__c.Instructor__c';
 import FIELD_NAME from
