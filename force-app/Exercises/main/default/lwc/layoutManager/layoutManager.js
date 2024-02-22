@@ -13,6 +13,7 @@ export default class LayoutManager extends LightningElement {
 	certificationId = 0;
 	modalHeader = '';
 	modalContent ='';
+	loading=true;
 
 	handleNavItemSelected(event) {
 		const selectedItemName = event.detail.itemName;
@@ -62,5 +63,11 @@ export default class LayoutManager extends LightningElement {
 	}
 	get certPopularityView() {
 		return (this.viewMode === VIEW_POPULARITY);
+	}
+	handleLoading() {
+		this.loading = true;
+	}
+	handleDoneLoading() {
+		this.loading = false;
 	}
 }
